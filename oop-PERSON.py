@@ -10,7 +10,8 @@ person1 = Person()
 person1.name = "Francis"
 person1.age = 23
 person1.gender = "male"
-#print("Hi my name is", person1.name, "Iam a", person1.age, "year old", person1.gender)
+
+# OOP using initialization method
 #     def __init__(self, name,  age , gender) -> None:
 #         self.name = name
 #         self.age = age 
